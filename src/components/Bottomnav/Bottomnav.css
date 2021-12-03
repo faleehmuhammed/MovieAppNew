@@ -1,0 +1,30 @@
+.bottomnav{
+    width: 100%;
+    height: 70px;
+    background-color: #0f171e;
+    bottom: 0;
+    position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+    
+}
+.bottomnav button {
+    width: 110px;
+    height: 35px;
+    margin-top: 1px;
+    border-radius: 5px;
+    outline: none;
+    background: none;
+    padding: 15px;
+    border: none;
+    color: gray;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bottomnav button:hover{
+    border: none;
+    color: #ffff;
+}

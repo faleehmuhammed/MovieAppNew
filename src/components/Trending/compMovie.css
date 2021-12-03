@@ -1,0 +1,34 @@
+.active{
+    background: black;
+    color: #fff;
+}
+.btn{
+    border-radius: 10px;
+    margin: 8px
+}
+.main{
+    background: #242424;
+    height: 100%;
+}
+.main h1{
+    color: #fff;
+}
+.list{
+    align-items: center;
+    text-align: center;
+}
+.list button{
+    border-radius: 8px;
+    outline: none;
+    background: none;
+    border: solid 2px #fff;
+    cursor: pointer;
+    color: cornsilk;
+    padding: 5px;
+}
+.list button:hover {
+    border:green solid 3px;
+}
+.active{
+    background-color: yellow;
+}
